@@ -15,7 +15,7 @@ A data engineer passionate about Data Science.:bar_chart:. I like automating thi
 ### My skills include
 
 <p align="left">
-	<img title="Hadoop" src="https://raw.githubusercontent.com/MIA-GH/Thomas-George-T/master/assets/hadoop.svg" width="70" height="40" />
+	<img title="Hadoop" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/hadoop.svg" width="70" height="40" />
 	<img title="Spark" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/apache_spark.svg" width="80" height="40" />
 	<img title="Scala" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/scala.svg" width="40" height="40" />
 	<img title="Python" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg" width="40" height="40" />
@@ -30,23 +30,23 @@ A data engineer passionate about Data Science.:bar_chart:. I like automating thi
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I’m currently working on AI For Election Prediction Model
+- 🌱 I’m currently learning Cyber Security
+- 👯 I’m looking to collaborate on FLuter AI reading Mobile App
+- 🤔 I’m looking for help with Learning Coding
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me: +233542864498
+- 😄 Pronouns: He
+- ⚡ Fun fact: I love everything about coding and a full stack web and modile developer
 -->
     
    Do :star: my work if you find it interesting, it helps me stay on track and be motivated.
    
 <br>
 <p align="center">
-    <a href="https://www.linkedin.com/in/thomasgeorgethomas/"><img alt="Linkedin profile" title="Linkedin" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linkedin.svg" width="100" height="30" /></a>
-    <a href="mailto:thomasgeorgethomas@gmail.com"><img alt="Gmail" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/google-gmail.svg" title="Email" width="100" height="30" /></a>
-    <a href="https://twitter.com/Thomas_George_T"><img alt="Twitter" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/twitter.svg" title="Twitter" width="100" height="30" /></a>
+    <a href="https://www.linkedin.com/in/musah-ibrahim-ali-820600ab/"><img alt="Linkedin profile" title="Linkedin" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linkedin.svg" width="100" height="30" /></a>
+    <a href="mailto:musahibrahimali@gmail.com"><img alt="Gmail" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/google-gmail.svg" title="Email" width="100" height="30" /></a>
+    <a href="https://twitter.com/musahibrahimali"><img alt="Twitter" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/twitter.svg" title="Twitter" width="100" height="30" /></a>
 </p>
 <hr \>
 <p align="center">
@@ -55,4 +55,4 @@ Here are some ideas to get you started:
    <i>You miss 100% of the shots you don't take.</i>
 </p>       
  
- ⭐️ From [Thomas-George-T](https://github.com/Thomas-George-T)
+ ⭐️ From [Musah Ibrahim Ali](https://github.com/MIA-GH)
