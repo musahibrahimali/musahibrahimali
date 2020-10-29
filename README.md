@@ -47,6 +47,7 @@ Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/M
 [<img align="left" alt="MusahIbrahimAli | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="MusahIbrahimAli | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="MusahIbrahimAli | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="MusahIbrahimAli | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
 <br/>
 
@@ -71,5 +72,11 @@ Do :star: my work if you find it interesting, it helps me stay on track and be m
 Let's connect 👨‍💻 and forge the future together.😁✌
 
 **Check out my Repositories and don't forget to give a star.** 👇 
+
+[twitter]: https://twitter.com/musahibrahimali
+[youtube]: https://www.youtube.com/channel/UC18OkCnXeAjBDwNqDJrRMCQ?view_as=subscriber
+[instagram]: https://www.instagram.com/musahibrahimali/
+[linkedin]: https://www.linkedin.com/in/musah-ibrahim-ali-820600ab/ 
+[facebook]: https://web.facebook.com/musah.ibrahim.3958
  
  ⭐️ From [Musah Ibrahim Ali](https://github.com/MIA-GH)
