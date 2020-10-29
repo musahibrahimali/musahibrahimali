@@ -6,11 +6,8 @@ I am a Full-stack Mobile and Web Developer who is exploring Cloud :cloud: while 
  
  🌱 I’m currently learning <img src="http://img.shields.io/badge/-4285F4?style=flat&logo=google%20cloud&logoColor=white"> Google Cloud Platform
  
- :books: I Love working with <img src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7"> and <img src="http://img.shields.io/badge/-Deno-black?style=flat&logo=deno&logoColor=white"/>
- 
+ :books: I Love working with <img src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7"> and <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
  👯 I’m looking to collaborate for a Flutter and ML-based project **Doc App**.
- 
- 🤔 I’m looking forward to help with [Github Blog Cards](https://github.com/Souravdey777/Github-Cards-External-Blogs).
  
  💬 Ask me about Full Stack Development, Python, and any Tech-related stuff.
  
@@ -47,7 +44,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: +233542864498
 - 😄 Pronouns: He
-- ⚡ Fun fact: I love everything about coding and a full stack web and modile developer
+- ⚡ Fun fact: I love everything about coding and a full stack web and mobile developer
 -->
     
    Do :star: my work if you find it interesting, it helps me stay on track and be motivated.
@@ -55,13 +52,6 @@ Here are some ideas to get you started:
 
 Let's connect 👨‍💻 and forge the future together.😁✌
 
-**Check the Repositories and don't forget to give a star.** 👇
-
-[website]: https://souravdey777.github.io/Portfolio/
-[twitter]: https://twitter.com/Souravdey777
-[youtube]: https://youtube.com/
-[instagram]: https://www.instagram.com/souravdey777/
-[linkedin]: https://www.linkedin.com/in/sourav-dey/
-[medium]: https://medium.com/@Souravdey777/     
+**Check out my Repositories and don't forget to give a star.** 👇 
  
  ⭐️ From [Musah Ibrahim Ali](https://github.com/MIA-GH)
