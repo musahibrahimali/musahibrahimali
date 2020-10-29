@@ -33,6 +33,26 @@ I am a Full-stack Mobile and Web Developer who is exploring Cloud :cloud: while 
 ### Other Languages I know
 <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/-JavaScript-purple?style=flat&logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/-csharp-green?style=flat&logo=csharp&logoColor=white">
 
+---
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MIA-GH&show_icons=true&hide_border=true)
+
+Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/MIA-GH)
+
+---
+
+
+### You can find in me in the web 🌍
+[<img align="left" alt="MusahIbrahimAli" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="MusahIbrahimAli | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="MusahIbrahimAli | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="MusahIbrahimAli | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br/>
+
+
+---
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on AI For Election Prediction Model
