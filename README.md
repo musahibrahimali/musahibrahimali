@@ -60,6 +60,13 @@ Let's connect 👨‍💻 and forge the future together.😁✌
 [5.1]: http://i.imgur.com/1AGmwO3.png 
 [6.1]: http://i.imgur.com/0o48UoR.png 
 
+[1]: http://www.twitter.com/carlsednaoui
+[2]: http://www.facebook.com/sednaoui
+[3]: https://plus.google.com/+CarlSednaoui
+[4]: http://carlsed.tumblr.com
+[5]: http://dribbble.com/carlsednaoui
+[6]: http://www.github.com/carlsednaoui
+
 **Check out my Repositories and don't forget to give a star.** 👇 
  
  ⭐️ From [Musah Ibrahim Ali](https://github.com/MIA-GH)
