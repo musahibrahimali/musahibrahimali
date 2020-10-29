@@ -45,7 +45,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: +233542864498
 - 😄 Pronouns: He
-- ⚡ Fun fact: I love everything about coding and a full stack web and mobile developer
+- ⚡ Fun fact: I love everything about coding and a full stack web and mobile developement
+
 -->
     
 Do :star: my work if you find it interesting, it helps me stay on track and be motivated.
