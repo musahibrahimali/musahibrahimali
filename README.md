@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on AI For Election Prediction Model
 - 🌱 I’m currently learning Cyber Security
 - 👯 I’m looking to collaborate on FLuter AI reading Mobile App
-- 🤔 I’m looking for help with Learning Coding
+- 🤔 I’m looking forward to helping others with Learning Coding
 - 💬 Ask me about ...
 - 📫 How to reach me: +233542864498
 - 😄 Pronouns: He
