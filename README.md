@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Cyber Security
 - 👯 I’m looking to collaborate on FLuter AI reading Mobile App
 - 🤔 I’m looking forward to helping others with Learning Coding
-- 💬 Ask me about ...
+- 💬 Ask me about web, mobile and tech related stuff
 - 📫 How to reach me: +233542864498
 - 😄 Pronouns: He
 - ⚡ Fun fact: I love everything about coding and a full stack web and mobile developement
