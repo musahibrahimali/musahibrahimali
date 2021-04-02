@@ -42,7 +42,7 @@ Check for a detailed stats here :point_right: [MIA](https://github.com/MIA-GH)
 ---
 
 
-### You can find in me in the web 🌍
+### You can find me on the web 🌍
 [<img align="left" alt="MusahIbrahimAli" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="MusahIbrahimAli | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="MusahIbrahimAli | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -56,14 +56,15 @@ Check for a detailed stats here :point_right: [MIA](https://github.com/MIA-GH)
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on AI For Election Prediction Model
+- 🔭 I’m currently working on some cool flutter projects
 - 🌱 I’m currently learning Cyber Security
 - 👯 I’m looking to collaborate on FLuter AI reading Mobile App
 - 🤔 I’m looking forward to helping others with Learning Coding
 - 💬 Ask me about web, mobile and tech related stuff
-- 📫 How to reach me: +233542864498
+- 📫 How to reach me: +233542864498 or musahibrahimali@gmail.com
 - 😄 Pronouns: He
 - ⚡ Fun fact: I love everything about coding and a full stack web and mobile developement
+- ⚡ Quote: You may write me down in history with your bitter twisted lies, you may trod me in the very dirth but like dust and air i will always rise.
 
 -->
     
