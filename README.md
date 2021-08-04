@@ -29,6 +29,7 @@ I am a Full-stack Mobile and Web Developer who is exploring Cloud :cloud: while 
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 <img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
+<img src="https://img.shields.io/badge/-TypeScript-430098?style=flat&logo=tyepescript&logoColor=blue">
 
 ### Other Languages I know
 <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> <img src="http://img.shields.io/badge/-kotlin-F89820?style=flat&logo=kotlin&logoColor=white"> <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/-JavaScript-purple?style=flat&logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/-csharp-green?style=flat&logo=csharp&logoColor=white">
@@ -37,7 +38,7 @@ I am a Full-stack Mobile and Web Developer who is exploring Cloud :cloud: while 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=musahibrahimali&show_icons=true&hide_border=true)
 
-Check for a detailed stats here :point_right: [MIA](https://github.com/musahibrahimali)
+Check for a detailed stats here :point_right: [musahibrahimali](https://github.com/musahibrahimali)
 
 ---
 
@@ -81,4 +82,4 @@ Let's connect 👨‍💻 and forge the future together.😁✌
 [linkedin]: https://www.linkedin.com/in/musah-ibrahim-ali-820600ab/ 
 [facebook]: https://web.facebook.com/musah.ibrahim.3958
  
- ⭐️ From [Musah Ibrahim Ali](https://github.com/MIA-GH)
+ ⭐️ From [Musah Ibrahim Ali](https://github.com/musahibrahimali)
