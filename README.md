@@ -35,9 +35,9 @@ I am a Full-stack Mobile and Web Developer who is exploring Cloud :cloud: while 
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MIA-GH&show_icons=true&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=musahibrahimali&show_icons=true&hide_border=true)
 
-Check for a detailed stats here :point_right: [MIA](https://github.com/MIA-GH)
+Check for a detailed stats here :point_right: [MIA](https://github.com/musahibrahimali)
 
 ---
 
