@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on FLuter AI reading Mobile App
 - 🤔 I’m looking forward to helping others with Learning Coding
 - 💬 Ask me about web, mobile and tech related stuff
-- 📫 How to reach me: +233542864498 or musahibrahimali@gmail.com
+- 📫 How to reach me: +233 (0) 502741426 or softwarearomagh@gmail.com
 - 😄 Pronouns: He
 - ⚡ Fun fact: I love everything about coding and a full stack web and mobile developement
 - ⚡ Quote: You may write me down in history with your bitter twisted lies, you may trod me in the very dirth but like dust and air i will always rise.
